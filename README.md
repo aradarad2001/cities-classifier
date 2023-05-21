@@ -6,10 +6,6 @@ https://docs.google.com/presentation/d/1tJi9oaRTegFKCR7S73Av9yoi-Q46SxQXEpb5iYw6
 
 ![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/confusion_matrix.png)
 
-
-## team members 
-Arad, Itamar, Dor, Daniel, Sagi
-
 ## Project name & one-line description of achievements
 
 Classifying cities by images.
