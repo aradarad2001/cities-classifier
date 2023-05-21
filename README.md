@@ -1,6 +1,8 @@
-# cities-classifier
-An algorithm for accurately predicting the city in which a given image was taken:
-https://cities19test.herokuapp.com/
+# Street View Image City Classifier 
+An Deep Transfer Learning classification model for accurately predicting the city in which a given image was taken without using geographic metadata.
+
+Slides with more details:
+https://docs.google.com/presentation/d/1tJi9oaRTegFKCR7S73Av9yoi-Q46SxQXEpb5iYw6dFE/edit?usp=sharing
 
 ![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/confusion_matrix.png)
 
@@ -54,7 +56,6 @@ Top 1 vs. Top 5 accuracy on different models
 Still having generalization issues that 
 Serving our model
 Deploying our model on Heroku server
-https://cities19test.herokuapp.com/
 Letting the user upload image
 Showing him the first score, and then the 4 most probable cities.
 Showing the user the lime explainer next to the original picture 
@@ -68,7 +69,6 @@ We still haven’t established a big enough and solid dataset to test those assu
 ### Business:
 Identifying the city with features that humans are not able to!
 Not identifying well landmarks
-https://cities19test.herokuapp.com/
 
 ## The 3 largest challenges that the team had to overcome to build this (especially unexpected challenges):
 Data preprocessing 
