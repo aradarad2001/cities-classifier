@@ -6,11 +6,6 @@ https://docs.google.com/presentation/d/1tJi9oaRTegFKCR7S73Av9yoi-Q46SxQXEpb5iYw6
 
 ![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/confusion_matrix.png)
 
-## Project name & one-line description of achievements
-
-Classifying cities by images.
-The classifier is doing a good job especially in suburbs and highways of cities, where it is more difficult for a human to distinguish between different cities.
-
 ## The final results in detail (include all relevant steps and moving pieces, techniques you tried, metrics that you achieved, etc)
 
 Classifying the right city on the test data of Mapillary with 93% accuracy. For out of our data set image The moving pieces of the model included these steps:
