@@ -2,7 +2,7 @@
 An Deep Transfer Learning classification model for accurately predicting the city in which a given image was taken without using geographic metadata.
 
 Slides with more details:
-https://docs.google.com/presentation/d/1tJi9oaRTegFKCR7S73Av9yoi-Q46SxQXEpb5iYw6dFE/edit?usp=sharing
+https://docs.google.com/presentation/d/1tJi9oaRTegFKCR7S73Av9yoi-Q46SxQXEpb5iYw6dFE
 
 ![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/confusion_matrix.png)
 
