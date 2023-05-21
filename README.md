@@ -1,4 +1,4 @@
-# Street View Image City Classifier 
+# Street View Image City Classifier - ITC Data Science Fellow Winter 2020 Final Project
 An Deep Transfer Learning classification model for accurately predicting the city in which a given image was taken without using geographic metadata.
 
 Slides with more details:
