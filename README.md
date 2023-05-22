@@ -1,10 +1,23 @@
 # Street View Image City Classifier - ITC Data Science Fellow Winter 2020 Final Project
 An Deep Transfer Learning classification model for accurately predicting the city in which a given image was taken without using geographic metadata.
 
-Slides with more details:
-https://docs.google.com/presentation/d/1tJi9oaRTegFKCR7S73Av9yoi-Q46SxQXEpb5iYw6dFE
-
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/cover.png)
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/dataset.png)
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/eda.png)
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/preprocessing.png)
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/baseline.png)
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/modeling.png)
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/performance.png)
 ![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/confusion_matrix.png)
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/augmentation.png)
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/understanding.png)
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/explainability.png)
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/hyper.png)
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/tf_dataset.png)
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/anomaly.png)
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/gan1.png)
+![alt text](https://github.com/aradarad2001/cities-classifier/blob/master/gan2.png)
+
 
 ## The final results in detail (include all relevant steps and moving pieces, techniques you tried, metrics that you achieved, etc)
 
@@ -94,5 +107,5 @@ Therefore we would to improve our project by introducing active learning, a semi
 A second strategy would focus on introducing more images of iconic places and characteristic architectural features into the training data. 
 
 
-POC of the project:
-https://docs.google.com/presentation/d/1tJi9oaRTegFKCR7S73Av9yoi-Q46SxQXEpb5iYw6dFE/edit?usp=sharing
+Slides with more details:
+https://docs.google.com/presentation/d/1tJi9oaRTegFKCR7S73Av9yoi-Q46SxQXEpb5iYw6dFE
